@@ -1,0 +1,61 @@
+alpha 0
+2025-02-14 23:15:08.018 | INFO     | __main__:<module>:10 - Starting training...
+2025-02-14 23:15:08.651 | INFO     | __main__:train_model:64 - Epoch 10/1000 - Loss: 0.003551
+2025-02-14 23:15:08.947 | INFO     | __main__:train_model:64 - Epoch 20/1000 - Loss: 0.003460
+2025-02-14 23:15:09.245 | INFO     | __main__:train_model:64 - Epoch 30/1000 - Loss: 0.003362
+2025-02-14 23:15:09.542 | INFO     | __main__:train_model:64 - Epoch 40/1000 - Loss: 0.003253
+2025-02-14 23:15:09.847 | INFO     | __main__:train_model:64 - Epoch 50/1000 - Loss: 0.003136
+2025-02-14 23:15:10.161 | INFO     | __main__:train_model:64 - Epoch 60/1000 - Loss: 0.002992
+2025-02-14 23:15:10.496 | INFO     | __main__:train_model:64 - Epoch 70/1000 - Loss: 0.002867
+2025-02-14 23:15:10.831 | INFO     | __main__:train_model:64 - Epoch 80/1000 - Loss: 0.002752
+2025-02-14 23:15:11.203 | INFO     | __main__:train_model:64 - Epoch 90/1000 - Loss: 0.002622
+2025-02-14 23:15:11.575 | INFO     | __main__:train_model:64 - Epoch 100/1000 - Loss: 0.002531
+2025-02-14 23:15:11.946 | INFO     | __main__:train_model:64 - Epoch 110/1000 - Loss: 0.002469
+2025-02-14 23:15:12.323 | INFO     | __main__:train_model:64 - Epoch 120/1000 - Loss: 0.002431
+2025-02-14 23:15:12.697 | INFO     | __main__:train_model:64 - Epoch 130/1000 - Loss: 0.002405
+2025-02-14 23:15:13.073 | INFO     | __main__:train_model:64 - Epoch 140/1000 - Loss: 0.002384
+2025-02-14 23:15:13.448 | INFO     | __main__:train_model:64 - Epoch 150/1000 - Loss: 0.002362
+2025-02-14 23:15:13.821 | INFO     | __main__:train_model:64 - Epoch 160/1000 - Loss: 0.002337
+2025-02-14 23:15:14.193 | INFO     | __main__:train_model:64 - Epoch 170/1000 - Loss: 0.002306
+2025-02-14 23:15:14.573 | INFO     | __main__:train_model:64 - Epoch 180/1000 - Loss: 0.002269
+2025-02-14 23:15:14.949 | INFO     | __main__:train_model:64 - Epoch 190/1000 - Loss: 0.002230
+2025-02-14 23:15:15.324 | INFO     | __main__:train_model:64 - Epoch 200/1000 - Loss: 0.002192
+2025-02-14 23:15:15.700 | INFO     | __main__:train_model:64 - Epoch 210/1000 - Loss: 0.002157
+2025-02-14 23:15:16.077 | INFO     | __main__:train_model:64 - Epoch 220/1000 - Loss: 0.002124
+2025-02-14 23:15:16.449 | INFO     | __main__:train_model:64 - Epoch 230/1000 - Loss: 0.002094
+2025-02-14 23:15:16.826 | INFO     | __main__:train_model:64 - Epoch 240/1000 - Loss: 0.002066
+...
+2025-02-14 23:15:53.992 | INFO     | __main__:train_model:64 - Epoch 980/1000 - Loss: 0.001526
+2025-02-14 23:15:54.533 | INFO     | __main__:train_model:64 - Epoch 990/1000 - Loss: 0.001526
+2025-02-14 23:15:55.071 | INFO     | __main__:train_model:64 - Epoch 1000/1000 - Loss: 0.001526
+
+alpha 100
+2025-02-14 23:16:28.913 | INFO     | __main__:<module>:10 - Starting training...
+2025-02-14 23:16:29.294 | INFO     | __main__:train_model:64 - Epoch 10/1000 - Loss: 0.004260
+2025-02-14 23:16:29.632 | INFO     | __main__:train_model:64 - Epoch 20/1000 - Loss: 0.004145
+2025-02-14 23:16:29.942 | INFO     | __main__:train_model:64 - Epoch 30/1000 - Loss: 0.004021
+2025-02-14 23:16:30.274 | INFO     | __main__:train_model:64 - Epoch 40/1000 - Loss: 0.003886
+2025-02-14 23:16:30.596 | INFO     | __main__:train_model:64 - Epoch 50/1000 - Loss: 0.003750
+2025-02-14 23:16:30.911 | INFO     | __main__:train_model:64 - Epoch 60/1000 - Loss: 0.003618
+2025-02-14 23:16:31.244 | INFO     | __main__:train_model:64 - Epoch 70/1000 - Loss: 0.003497
+2025-02-14 23:16:31.547 | INFO     | __main__:train_model:64 - Epoch 80/1000 - Loss: 0.003395
+2025-02-14 23:16:31.877 | INFO     | __main__:train_model:64 - Epoch 90/1000 - Loss: 0.003290
+2025-02-14 23:16:32.211 | INFO     | __main__:train_model:64 - Epoch 100/1000 - Loss: 0.003214
+2025-02-14 23:16:32.574 | INFO     | __main__:train_model:64 - Epoch 110/1000 - Loss: 0.003149
+2025-02-14 23:16:32.913 | INFO     | __main__:train_model:64 - Epoch 120/1000 - Loss: 0.003107
+2025-02-14 23:16:33.286 | INFO     | __main__:train_model:64 - Epoch 130/1000 - Loss: 0.003082
+2025-02-14 23:16:33.659 | INFO     | __main__:train_model:64 - Epoch 140/1000 - Loss: 0.003064
+2025-02-14 23:16:34.033 | INFO     | __main__:train_model:64 - Epoch 150/1000 - Loss: 0.003047
+2025-02-14 23:16:34.408 | INFO     | __main__:train_model:64 - Epoch 160/1000 - Loss: 0.003027
+2025-02-14 23:16:34.783 | INFO     | __main__:train_model:64 - Epoch 170/1000 - Loss: 0.003004
+2025-02-14 23:16:35.163 | INFO     | __main__:train_model:64 - Epoch 180/1000 - Loss: 0.002974
+2025-02-14 23:16:35.539 | INFO     | __main__:train_model:64 - Epoch 190/1000 - Loss: 0.002934
+2025-02-14 23:16:35.913 | INFO     | __main__:train_model:64 - Epoch 200/1000 - Loss: 0.002882
+2025-02-14 23:16:36.290 | INFO     | __main__:train_model:64 - Epoch 210/1000 - Loss: 0.002822
+2025-02-14 23:16:36.665 | INFO     | __main__:train_model:64 - Epoch 220/1000 - Loss: 0.002764
+2025-02-14 23:16:37.043 | INFO     | __main__:train_model:64 - Epoch 230/1000 - Loss: 0.002712
+2025-02-14 23:16:37.415 | INFO     | __main__:train_model:64 - Epoch 240/1000 - Loss: 0.002667
+...
+2025-02-14 23:17:09.368 | INFO     | __main__:train_model:64 - Epoch 980/1000 - Loss: 0.002381
+2025-02-14 23:17:09.800 | INFO     | __main__:train_model:64 - Epoch 990/1000 - Loss: 0.002381
+2025-02-14 23:17:10.237 | INFO     | __main__:train_model:64 - Epoch 1000/1000 - Loss: 0.002381
